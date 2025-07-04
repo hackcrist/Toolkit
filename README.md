@@ -15,19 +15,17 @@ Clona el repositorio oficial:
 
 ```bash
 git clone https://github.com/hackcrist/Toolkit.git
-cd Toolkit
-```
-
+ ```
 Instala dependencias:
 
 ```bash
-bash install.sh
+bash  toolkit_script.sh
 ```
 
 Inicia el menú principal:
 
 ```bash
-bash toolkit.sh
+bash  toolkit_script.sh
 ```
 
 ---
@@ -49,7 +47,7 @@ bash toolkit.sh
 ## 📁 Archivos principales
 
 - `install.sh` → Instala `php`, `nmap`, `sqlmap`, `hydra`, `figlet`, `lolcat`.
-- `toolkit.sh` → Muestra el menú principal en español con funciones y tutorial.
+- ` toolkit_script.sh` → Muestra el menú principal en español con funciones y tutorial.
 
 ---
 
