@@ -18,12 +18,6 @@ git clone https://github.com/hackcrist/Toolkit.git
 cd Toolkit
 ```
 
-Da permisos de ejecución:
-
-```bash
-chmod +x install.sh toolkit.sh
-```
-
 Instala dependencias:
 
 ```bash
