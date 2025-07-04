@@ -15,7 +15,15 @@ Clona el repositorio oficial:
 
 ```bash
 git clone https://github.com/hackcrist/Toolkit.git
- ```
+cd Toolkit
+```
+
+Da permisos de ejecución:
+
+```bash
+chmod +x install.sh toolkit.sh
+```
+
 Instala dependencias:
 
 ```bash
@@ -25,7 +33,7 @@ bash install.sh
 Inicia el menú principal:
 
 ```bash
-bash toolkit_script.sh
+bash toolkit.sh
 ```
 
 ---
@@ -46,8 +54,10 @@ bash toolkit_script.sh
 
 ## 📁 Archivos principales
 
-- `install.sh` → Instala `php`, `nmap`, `sqlmap`, `hydra`, `figlet`, `lolcat`.
-- ` toolkit_script.sh` → Muestra el menú principal en español con funciones y tutorial.
+- `install.sh` → Instala `php`, `nmap`, `sqlmap`, `hydra`, `figlet`, `lolcat` (cada uno por separado).
+- `toolkit.sh` → Muestra el menú principal en español con funciones y tutorial.
+
+Al finalizar la instalación, se abrirá automáticamente tu canal de TikTok.
 
 ---
 
