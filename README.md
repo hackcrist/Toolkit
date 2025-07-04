@@ -19,13 +19,13 @@ git clone https://github.com/hackcrist/Toolkit.git
 Instala dependencias:
 
 ```bash
-bash   install.sh
+bash install.sh
 ```
 
 Inicia el menú principal:
 
 ```bash
-bash  toolkit_script.sh
+bash toolkit_script.sh
 ```
 
 ---
