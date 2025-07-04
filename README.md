@@ -11,19 +11,26 @@ Una herramienta compacta, potente y directa, diseñada para aprender y practicar
 
 ## ⚡ Instalación rápida
 
-1) Da permisos de ejecución:
+Clona el repositorio oficial:
+
+```bash
+git clone https://github.com/hackcrist/Toolkit.git
+cd Toolkit
+```
+
+Da permisos de ejecución:
 
 ```bash
 chmod +x install.sh toolkit.sh
 ```
 
-2) Instala dependencias:
+Instala dependencias:
 
 ```bash
 bash install.sh
 ```
 
-3) Inicia el menú principal:
+Inicia el menú principal:
 
 ```bash
 bash toolkit.sh
